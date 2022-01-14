@@ -6,7 +6,7 @@ I make videos about game-hacking and programming in general over on [cazzwastake
 - [YouTube](https://www.youtube.com/c/cazzwastaken)
 - [Discord](https://discord.gg/cazz)
 - [Twitter](https://twitter.com/cazzwastaken)
-- - **cazzwastaken@gmail.com
+- **cazzwastaken@gmail.com**
 
 ## 🥰 Support my work
 - [Patreon](https://www.patreon.com/cazzwastaken)
