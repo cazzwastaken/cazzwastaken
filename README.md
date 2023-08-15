@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm cazz!
 
-I make videos about game-hacking and programming in general over on [cazzwastaken](https://www.youtube.com/c/cazzwastaken) so, be sure to check it out.
+I make videos about game-hacking and programming in general over on [@cazz](https://www.youtube.com/@cazz) so, be sure to check it out.
 
 ## 📑 Where to find me
 - [YouTube](https://www.youtube.com/c/cazzwastaken)
