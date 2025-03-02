@@ -6,15 +6,9 @@ I make videos about game-hacking and programming in general over on [@cazz](http
 - [YouTube](https://www.youtube.com/c/cazzwastaken)
 - [Discord](https://discord.com/invite/xcZgJbAARc)
 - [Twitter](https://twitter.com/cazzwastaken)
-- [Instagram](https://www.instagram.com/cazzwastaken/)
 
 ## 🥰 Support my work
 - [Patreon](https://www.patreon.com/cazzwastaken)
-
-## 🤖 Tools
-- I primarily use c++
-- Python is pretty cool too
-- Rust is great for when I'm not hacking
 
 <!--
 **cazzwastaken/cazzwastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
