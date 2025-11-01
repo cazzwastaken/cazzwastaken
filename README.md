@@ -13,20 +13,21 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=black)](https://www.youtube.com/@cazz)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=black)](https://discord.com/invite/xcZgJbAARc)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=black)](https://twitter.com/cazzwastaken)
+[![X](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white&labelColor=black)](https://twitter.com/cazzwastaken)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white&labelColor=black)](https://www.patreon.com/cazzwastaken)
 
 </div>
 
 ---
 
-```bash
-[2024-10-31 17:18:33] INFO: Systems & Desktop Programming with C/C++
-[2024-10-29 15:42:17] INFO: Binary Reverse Engineering & Exploit Development
-[2024-10-27 12:30:45] INFO: Highest Quality Game Hacking Tutorials
-[2024-10-25 09:15:22] INFO: AI & Machine Learning Enthusiast
-[2024-10-23 14:55:11] CRITICAL: Hater of Assembly
+```yaml
+[2024-10-31 17:18:33] DEBUG: Systems & Desktop Programming with C/C++
+[2024-10-29 15:42:17] DEBUG: Binary Reverse Engineering & Exploit Development
+[2024-10-27 12:30:45] DEBUG: Highest Quality Game Hacking Tutorials
+[2024-10-25 09:15:22] DEBUG: AI & Machine Learning Enthusiast
+[2024-10-23 14:55:11] CRITICAL: Hater of Assembler Language
 [2024-10-21 11:05:09] INFO: Ethical Hacker & Cybersecurity Advocate
+[2024-10-19 16:40:33] WARNING: Aweful Upload Schedule :(
 ```
 
 <div align="center">
@@ -39,7 +40,7 @@
 
 </div>
 
-### `> sudo support --financial`
+### `> sudo support --financial` [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white&labelColor=black)](https://www.patreon.com/cazzwastaken)
 
 ```bash
 cazz@hacklab:~$ sudo support --financial
