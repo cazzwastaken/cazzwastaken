@@ -7,51 +7,63 @@
  ██║     ██╔══██║ ███╔╝   ███╔╝  
  ╚██████╗██║  ██║███████╗███████╗
   ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝
-```
 
-**`Programmer | Reverse Engineer | Content Creator`**
+  Programming | Reverse Engineering | Tutorials
+```
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=black)](https://www.youtube.com/@cazz)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=black)](https://discord.com/invite/xcZgJbAARc)
 [![X](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white&labelColor=black)](https://twitter.com/cazzwastaken)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white&labelColor=black)](https://www.piatreon.com/cazzwastaken)
 
+<!--
+
+Get rid of these for now since GitHub profile info is readily accessible.
+
 ![GitHub Profile](https://img.shields.io/badge/%20-Profile-000000?style=flat-square&logo=github&logoColor=ffffff&labelColor=0d1117)
 ![GitHub Followers](https://img.shields.io/github/followers/cazzwastaken?style=flat-square&color=000000&labelColor=0d1117&logoColor=ffffff)
 ![GitHub Stars](https://img.shields.io/github/stars/cazzwastaken?style=flat-square&color=000000&labelColor=0d1117&logoColor=ffffff)
+-->
 
 </div>
 
 ---
 
-### `> logread -e`
+### `$ github profile --format=log`
 
-```yaml
-[2021-10-18 12:30:45] WARN: Highest quality game hacking tutorials on the internet
-[2021-10-19 16:40:33] CRIT: Bad upload schedule detected
-[2021-10-19 17:18:33] INFO: Desktop development with C++ enabled
-[2021-10-19 17:18:33] INFO: Systems development with C enabled
-[2021-10-20 15:42:17] INFO: Scripting and tooling with Python enabled
-[2021-10-23 09:15:22] WARN: Agentic AI enthusiast (vibe coder)
-[2021-10-23 09:15:22] INFO: Cybersecurity educator and advocate
-[2021-10-23 09:15:22] CRIT: Grey hat hacking should be done responsibly
+```log
+Nov  7 14:22:11 github cazz[1337]: High-qualty game hacking/modding tutorials
+Nov  7 14:22:12 github cazz[1337]: Systems & desktop development with C/C++
+Nov  7 14:22:13 github cazz[1337]: Scripting & tooling with Python
+Nov  7 14:22:14 github cazz[1337]: WARNING: Upload schedule irregular
 ```
 
-### `> sudo support --financial`
+### `$ github profile --support`
 
-```bash
-cazz@hacklab:~$ sudo support --financial
-[sudo] password for cazz: ********
+```conf
+# Financial Support Configuration
+# ================================
 
-Financial support enables:
-├─ Instant source-code access
-├─ More frequent uploads
-├─ Higher quality content
-└─ Lots of love from cazzy ❤️
+# Note: Support of any form is appreciated!
 
-Available payment methods:
-└─ Patreon: https://www.patreon.com/cazzwastaken
+[benefits]
+  source_code_access = instant
+  content_frequency  = increase
+  appreciation       = maximum ❤️
+
+[payment_gateway]
+  patreon = https://www.patreon.com/cazzwastaken
 ```
+
+### `$ github exit`
+
+```log
+Thanks for stopping by!
+
+Connection to github.com closed...
+```
+
+<!--
 
 ---
 
@@ -62,4 +74,4 @@ Available payment methods:
 
 </div>
 
-
+-->
